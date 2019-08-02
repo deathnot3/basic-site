@@ -15,3 +15,8 @@ body {
 header nav ul {
     list-style: none;
 }
+
+header nav ul li {
+    float: left;
+    background: #66b3ff;
+}
