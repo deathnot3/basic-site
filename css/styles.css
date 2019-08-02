@@ -2,3 +2,12 @@
     padding: 0px;
     margin: 0px;
 }
+
+.main, header, footer {
+    margin: 20px auto;
+    width: 80%;
+}
+
+header nav ul {
+    list-style: none;
+}
