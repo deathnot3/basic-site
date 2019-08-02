@@ -28,5 +28,10 @@ header nav ul li {
 header nav ul li a {
     display: block;
     padding: 10px 20px;
+    color: white;
+    text-decoration: none;
 }
 
+header nav ul li a:hover {
+    background: #b3d9ff;
+}
