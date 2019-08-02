@@ -12,6 +12,10 @@ body {
     width: 80%;
 }
 
+.main {
+    clear: both;
+}
+
 header nav ul {
     list-style: none;
 }
@@ -20,3 +24,9 @@ header nav ul li {
     float: left;
     background: #66b3ff;
 }
+
+header nav ul li a {
+    display: block;
+    padding: 10px 20px;
+}
+
