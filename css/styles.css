@@ -3,6 +3,10 @@
     margin: 0px;
 }
 
+body {
+    background: #e6e6e6;
+}
+
 .main, header, footer {
     margin: 20px auto;
     width: 80%;
