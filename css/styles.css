@@ -35,3 +35,24 @@ header nav ul li a {
 header nav ul li a:hover {
     background: #b3d9ff;
 }
+
+.main .articles {
+    width: 68%;
+    float: left;
+    margin-right: 2%;
+}
+
+.main .articles article {
+    background: white;
+    padding: 20px 10px;
+    margin: 10px 0px;
+}
+
+.main aside {
+    float: left;
+    width: 30%;
+}
+
+footer {
+    clear: both;
+}
