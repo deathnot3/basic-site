@@ -7,12 +7,12 @@ body {
     background: #e6e6e6;
 }
 
-.main, header, footer {
+main, header, footer {
     margin: 20px auto;
     width: 80%;
 }
 
-.main {
+main {
     clear: both;
 }
 
@@ -36,19 +36,19 @@ header nav ul li a:hover {
     background: #b3d9ff;
 }
 
-.main .articles {
+main .articles {
     width: 68%;
     float: left;
     margin-right: 2%;
 }
 
-.main .articles article {
+main .articles article {
     background: white;
     padding: 20px 10px;
     margin: 10px 0px;
 }
 
-.main aside {
+main aside {
     float: left;
     width: 30%;
     background: #ff8000;
